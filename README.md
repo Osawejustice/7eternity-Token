@@ -3,7 +3,7 @@
 
 
 
-15 % tax for buy
+## 15 % tax for buy
 
 7% busd rewards
 
@@ -16,7 +16,7 @@
 1% donation 
 
 
-18% tax for sell
+## 18% tax for sell
 
 7% busd rewards
 
@@ -30,14 +30,14 @@
 
 
 
-Between wallets transfer tax is 3%
+## Between wallets transfer tax is 3%
 
 1% marketing/dev 
 1% liquidity 
 1% donation 
 
-Marketing wallet
+## Marketing wallet
 bnb1ye8l4eh6y7pxf9d63mp5p5r42m300rjjsxsu0s
 
-DONATION WALLET
+## DONATION WALLET
 bnb1v7j066l4j4cvfpasjg0e5ueruc2wq46adsd80n
