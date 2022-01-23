@@ -37,7 +37,7 @@
 1% donation 
 
 ## Marketing wallet
-bnb1ye8l4eh6y7pxf9d63mp5p5r42m300rjjsxsu0s
+0x40Bb650F88bFDf13c166eEDaa57F9f82938Cf923
 
 ## DONATION WALLET
-bnb1v7j066l4j4cvfpasjg0e5ueruc2wq46adsd80n
+0x636B4B6Dd07DE07094E73335E34853CE20A6EF8e
